@@ -21,3 +21,33 @@ Di dalam repository ini terdapat kumpulan notebook dari Pertemuan 1 sampai Perte
 | Pertemuan 5	| Machine Learning Dasar: Regresi dan Evaluasi Model	| [Pertemuan 5](./Pertemuan5_Muhammad_Galih_Abdurrahman_240401010278.ipynb) |
 | Pertemuan 6	| Machine Learning: Klasifikasi, preprocessing, training, dan evaluasi model | [Pertemuan 6](./Pertemuan6_Muhammad_Galih_Abdurrahman_240401010278.ipynb) |
 | Pertemuan 7	| Penerapan lanjutan Data Science dan penyusunan hasil analisis	| [Pertemuan 7](./Pertemuan7_Muhammad_Galih_Abdurrahman_240401010278.ipynb) |
+
+## Tools dan Library yang Digunakan
+Beberapa tools dan library yang digunakan dalam repository ini antara lain:
+- Python
+- Google Colab
+- GitHub
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- scikit-learn
+- SciPy
+
+### Menjalankan melalui Google Colab
+Buka salah satu file notebook .ipynb pada repository ini.
+Klik tombol Open in Colab apabila tersedia.
+Jalankan setiap cell secara berurutan dari atas ke bawah.
+Pastikan koneksi internet aktif jika notebook menggunakan dataset dari URL eksternal.
+
+## Kesimpulan Umum Pembelajaran Data Science Pertemuan 1–7
+
+Selama mengikuti pembelajaran Data Science dari Pertemuan 1 sampai Pertemuan 7, saya mempelajari bahwa Data Science merupakan bidang yang sangat penting dalam proses pengolahan dan analisis data. Pembelajaran dimulai dari dasar penggunaan Python, Google Colab, dan GitHub sebagai media untuk menulis, menjalankan, serta menyimpan kode program.
+
+Pada pertemuan berikutnya, saya mulai memahami cara membaca dataset, melihat struktur data, mengecek missing value, melakukan eksplorasi data, serta membersihkan data agar siap digunakan untuk proses analisis. Proses data cleaning menjadi salah satu bagian penting karena kualitas data sangat mempengaruhi hasil analisis maupun model machine learning yang dibuat.
+
+Selain itu, saya juga mempelajari visualisasi data menggunakan library seperti Matplotlib dan Seaborn. Visualisasi data membantu menyajikan informasi secara lebih mudah dipahami, sehingga pola, perbandingan, dan hubungan antarvariabel dapat terlihat dengan lebih jelas.
+
+Pada bagian machine learning, saya mulai memahami alur dasar pembuatan model, mulai dari preprocessing data, pembagian data training dan testing, pelatihan model, prediksi, hingga evaluasi model. Dari pembelajaran ini, saya menyimpulkan bahwa Data Science bukan hanya tentang menulis kode, tetapi juga tentang memahami data, memilih metode yang tepat, mengevaluasi hasil, dan mengambil kesimpulan berdasarkan fakta dari data.
+
+Secara umum, repository ini menjadi dokumentasi perjalanan belajar saya dalam memahami dasar-dasar Data Science. Melalui Pertemuan 1 sampai Pertemuan 7, saya mendapatkan pemahaman awal yang lebih baik tentang bagaimana data dapat diolah, dianalisis, divisualisasikan, dan digunakan untuk mendukung pengambilan keputusan.
