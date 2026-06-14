@@ -14,7 +14,7 @@ Di dalam repository ini terdapat kumpulan notebook dari Pertemuan 1 sampai Perte
 
 |Pertemuan	|Topik Pembelajaran |	Link Notebook |
 | ------ | ------- | ----- | 
-| Pertemuan 1 | Pengenalan Python, Google Colab, Jupyter Notebook, dan GitHub | [Pertemuan 1](./Pertemuan1_Muhammad Galih Abddurahaman_240401010278.ipynb) |
+| Pertemuan 1 | Pengenalan Python, Google Colab, Jupyter Notebook, dan GitHub | [Pertemuan 1](./Pertemuan1_Muhammad_Galih_Abddurahaman_240401010278.ipynb) |
 | Pertemuan 2	| Eksplorasi Dataset Titanic menggunakan Pandas dan NumPy |	[Pertemuan 2](./Pertemuan2_Muhammad_Galih_Abdurrahman_240401010278.ipynb) |
 | Pertemuan 3	| Data Cleaning: missing value, duplikasi data, normalisasi, dan outlier	| [Pertemuan 3](Pertemuan3_Muhammad_Galih_Abdurrahman_240401010278.ipynb) |
 | Pertemuan 4	| Analisis Data dan Visualisasi Data	| [Pertemuan 4](./Pertemuan4_Muhammad_Galih_Abdurrahman_240401010278.ipynb) |
