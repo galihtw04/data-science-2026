@@ -25,7 +25,7 @@ Di dalam repository ini terdapat kumpulan notebook dari Pertemuan 1 sampai Perte
 | Pertemuan 10	| Decision Tree Classifier dan Feature Importance Analysis	| [Pertemuan 10](./Pertemuan10_Muhammad_Galih_Abdurrahman_240401010278.ipynb) |
 | Pertemuan 11	| Unsupervised Learning: Clustering (K-Means & Hierarchical)	| [Pertemuan 11](./Pertemuan11_Muhammad_Galih_Abdurrahman_240401010278.ipynb) |
 | Pertemuan 12	| Support Vector Machine (SVM): Linear dan Kernel RBF	| [Pertemuan 12](./Pertemuan12_Muhammad_Galih_Abdurrahman_240401010278.ipynb) |
-| Pertemuan 13	| Model Ensemble: Random Forest & Gradient Boosting	| [Pertemuan13_Muhammad_Galih_Abdurrahman_240401010278.ipynb) |
+| Pertemuan 13	| Model Ensemble: Random Forest & Gradient Boosting	| [Pertemuan 13](./Pertemuan13_Muhammad_Galih_Abdurrahman_240401010278.ipynb) |
 
 ## Tools dan Library yang Digunakan
 Beberapa tools dan library yang digunakan dalam repository ini antara lain:
